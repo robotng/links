@@ -5,7 +5,7 @@ Welcome to @tngrobot
 - Instagram - [https://instagram.com/robotng.ca](https://instagram.com/robotng.ca)
 - Github - [https://github.com/robotng](https://github.com/robotng)
 - Email - robotng.ca@gmail.com
-- Discord - [TNG Discord](https://discord.gg/UXgrnxbz)
+- Discord - [ROBOTNG Discord](https://discord.gg/AAC8jbgh3n)
 
 Hope you have a wonderful day.
 -ROBOTNG
